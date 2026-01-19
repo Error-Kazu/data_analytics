@@ -1,0 +1,4 @@
+imported iris dataset from sklearn
+then spliting data into x and y then train test splits
+creates a svm model and train it on the training data  and then uses it to predict the test data
+calculate the accuracy score for the model
